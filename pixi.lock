@@ -10475,9 +10475,9 @@ packages:
   timestamp: 1762299697693
 - kind: pypi
   name: stac-cano
-  version: 0.1.dev1+gad35c7bb8
+  version: 0.1.dev2+g07d2bfde4.d20251124
   path: .
-  sha256: 6da5efc88759ecfafcd1da125e8ad0f0cc2d72d5d3fb29e3f20dd3c36a4e1d27
+  sha256: 102a5ca986fcd4471e37dfbc243b62062963d894c55ce0f944e1b70043fe2b64
   requires_dist:
   - geopandas>=1.0
   - numpy

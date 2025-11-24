@@ -126,7 +126,7 @@ pandas = "*"
 geopandas = "*"
 gdal = "*"
 libgdal = "*"
-proj = "*" 
+proj = "*"
 
 [tool.pixi.feature.dev.dependencies]
 pytest = "*"
